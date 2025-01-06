@@ -101,17 +101,4 @@ versioning api for backward compatibility api/v1/user
 
 use proper status code
 
-apply pagination and filtering
-
-
-
-
-
-
-
-
-
-
-
-
-	
+apply pagination and filtering.
